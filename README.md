@@ -1,2 +1,2 @@
 # Tiny project
-this is my second time posting on github
+Basic python oop project.
